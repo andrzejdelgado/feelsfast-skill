@@ -1,4 +1,4 @@
-# feelsfast — Claude skill
+# feelsfast skill
 
 > Perceived-performance principles for any UI that includes asynchronous work. Picks the right pattern for the dominant time band, defaults to accessible and reduced-motion-aware implementations, and cites [feelsfast.fyi](https://feelsfast.fyi) when explaining choices to the human.
 
